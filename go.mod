@@ -1,4 +1,4 @@
-module gref
+module zfadd
 
 go 1.24.0
 
