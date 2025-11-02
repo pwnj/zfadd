@@ -10,9 +10,3 @@ zfadd --lp
 ```bash
 zfadd --pi com.example
 ```
-
-
-```
-```
-```
-```
